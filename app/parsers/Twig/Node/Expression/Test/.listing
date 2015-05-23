@@ -1,0 +1,9 @@
+drwxr-xr-x   2 u69028424-scousin ftpusers      126 Dec 12  2013 .
+drwxr-xr-x   6 u69028424-scousin ftpusers     4096 Dec 12  2013 ..
+-rw----r--   1 u69028424-scousin ftpusers      878 Dec 12  2013 Constant.php
+-rw----r--   1 u69028424-scousin ftpusers     1625 Dec 12  2013 Defined.php
+-rw----r--   1 u69028424-scousin ftpusers      765 Dec 12  2013 Divisibleby.php
+-rw----r--   1 u69028424-scousin ftpusers      654 Dec 12  2013 Even.php
+-rw----r--   1 u69028424-scousin ftpusers      636 Dec 12  2013 Null.php
+-rw----r--   1 u69028424-scousin ftpusers      651 Dec 12  2013 Odd.php
+-rw----r--   1 u69028424-scousin ftpusers      708 Dec 12  2013 Sameas.php
